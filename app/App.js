@@ -12,7 +12,6 @@ import BurgerMenu from "./components/BurgerMenu";
 import DetailScreen from "./screens/Detail";
 import HomeScreen from "./screens/Home";
 import OptionsScreen from "./screens/Options";
-// import LoadingScreen from "./screens/Loading";
 import LoginScreen from "./screens/Login";
 import PasswordResetScreen from "./screens/PasswordReset";
 import RegisterScreen from "./screens/Register";
